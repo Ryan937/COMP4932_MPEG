@@ -1,0 +1,10 @@
+C:\Users\Ryan\Desktop\BCIT\term 4\COMP4932 Advanced Digi Pro\Assignments\2_JPEG\2_JPEG\bin\Debug\2_JPEG.exe.config
+C:\Users\Ryan\Desktop\BCIT\term 4\COMP4932 Advanced Digi Pro\Assignments\2_JPEG\2_JPEG\bin\Debug\2_JPEG.exe
+C:\Users\Ryan\Desktop\BCIT\term 4\COMP4932 Advanced Digi Pro\Assignments\2_JPEG\2_JPEG\bin\Debug\2_JPEG.pdb
+C:\Users\Ryan\Desktop\BCIT\term 4\COMP4932 Advanced Digi Pro\Assignments\2_JPEG\2_JPEG\obj\Debug\2_JPEG.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\BCIT\term 4\COMP4932 Advanced Digi Pro\Assignments\2_JPEG\2_JPEG\obj\Debug\_2_JPEG.Form1.resources
+C:\Users\Ryan\Desktop\BCIT\term 4\COMP4932 Advanced Digi Pro\Assignments\2_JPEG\2_JPEG\obj\Debug\_2_JPEG.Properties.Resources.resources
+C:\Users\Ryan\Desktop\BCIT\term 4\COMP4932 Advanced Digi Pro\Assignments\2_JPEG\2_JPEG\obj\Debug\2_JPEG.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\BCIT\term 4\COMP4932 Advanced Digi Pro\Assignments\2_JPEG\2_JPEG\obj\Debug\2_JPEG.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\BCIT\term 4\COMP4932 Advanced Digi Pro\Assignments\2_JPEG\2_JPEG\obj\Debug\2_JPEG.exe
+C:\Users\Ryan\Desktop\BCIT\term 4\COMP4932 Advanced Digi Pro\Assignments\2_JPEG\2_JPEG\obj\Debug\2_JPEG.pdb
