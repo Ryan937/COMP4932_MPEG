@@ -23,10 +23,10 @@ namespace _2_JPEG
             this.Cb = Cb;
             this.Cr = Cr;
         }
-}
+    }
 
 
-public partial class Form1 : Form
+    public partial class Form1 : Form
     {
         Bitmap image;
         Bitmap image2;
